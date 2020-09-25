@@ -3,6 +3,7 @@
 set(TARGET_NAME LogicToolbox)
 set(MODULE_NAME ModuleOne)
 set(SRC hello.cpp)
+#set(SRC alokacija.cpp)
 set (CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 
 # Build an executable from main.cpp and all specified source files

@@ -57,6 +57,28 @@ ResultTree::ResultTree(Universe *universe, Expression e){
                 stack_of_nodes.push(newnode);
                 break;
             }
+            case TokenType::BINARY_OP_TEMP :
+            {
+                node* newnode = new node;
+
+                newnode->right = stack_of_nodes.top();
+                stack_of_nodes.pop();
+                newnode->left = stack_of_nodes.top();
+                stack_of_nodes.pop();
+
+                map<World*,bool> newMap;
+                for(World* world : universe->getWorlds()){
+                    bool x = newnode->left->results[world];
+                    bool y = newnode->right->results[world];
+                    newMap[world] = Operator(world, newnode->left->results, newnode->right->results, *i,universe->getLogic());
+                }
+
+                newnode->results = newMap;
+                newnode->value = i->value;
+
+                stack_of_nodes.push(newnode);
+                break;
+            }
             case TokenType::UNARY_OP:
             {
 

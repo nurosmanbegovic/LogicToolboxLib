@@ -23,6 +23,7 @@ class CoreEvaluator {
     ResultTree resultTree;
 public:
     CoreEvaluator(const char* PATH = "UniverseConfig.json");
+    CoreEvaluator(Universe universe);
     //~CoreEvaluator();
     ResultTree returnResultTree(string expression_string);
     void ToString();

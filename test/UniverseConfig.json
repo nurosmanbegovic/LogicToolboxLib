@@ -3,7 +3,9 @@
   "Logic": "D",
   "VariableNames": [
     "x",
-    "y"
+    "y",
+    "z",
+    "u"
   ],
   "Worlds": [
     {
@@ -16,11 +18,18 @@
         {
           "Name": "y",
           "Value": true
+        },
+        {
+          "Name": "z",
+          "Value": true
+        },
+        {
+          "Name": "u",
+          "Value": true
         }
       ],
       "AdjWorlds": [
-        "w2",
-        "w3"
+        "w2"
       ]
     },
     {
@@ -28,16 +37,23 @@
       "Variables": [
         {
           "Name": "x",
-          "Value": false
+          "Value": true
         },
         {
           "Name": "y",
           "Value": true
+        },
+        {
+          "Name": "z",
+          "Value": true
+        },
+        {
+          "Name": "u",
+          "Value": true
         }
       ],
       "AdjWorlds": [
-        "w3",
-        "w4"
+        "w3"
       ]
     },
     {
@@ -49,11 +65,18 @@
         },
         {
           "Name": "y",
-          "Value": false
+          "Value": true
+        },
+        {
+          "Name": "z",
+          "Value": true
+        },
+        {
+          "Name": "u",
+          "Value": true
         }
       ],
       "AdjWorlds": [
-        "w2",
         "w4"
       ]
     },
@@ -62,11 +85,19 @@
       "Variables": [
         {
           "Name": "x",
-          "Value": false
+          "Value": true
         },
         {
           "Name": "y",
-          "Value": false
+          "Value": true
+        },
+        {
+          "Name": "z",
+          "Value": true
+        },
+        {
+          "Name": "u",
+          "Value": true
         }
       ],
       "AdjWorlds": []

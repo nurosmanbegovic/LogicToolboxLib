@@ -16,6 +16,7 @@ enum TokenType{
     CLOSE_PARENT,
     UNARY_OP,
     BINARY_OP,
+    BINARY_OP_TEMP,
     LITERAL,
     EXPR_END
 };
@@ -58,7 +59,23 @@ struct Token {
             },
             {
                     ')',make_pair(TokenType::CLOSE_PARENT, ")")
+            },
+            {
+                    '*',make_pair(TokenType::UNARY_OP, "NEXT")
+            },
+            {
+                    '@',make_pair(TokenType::UNARY_OP, "ALL")
+            },
+            {
+                    '<',make_pair(TokenType::UNARY_OP, "SOME")
+            },
+            {
+                    '%',make_pair(TokenType::BINARY_OP_TEMP, "UNTIL")
+            },
+            {
+                    '}',make_pair(TokenType::BINARY_OP_TEMP, "UNLESS")
             }
+            
     };
 
     TokenType type;

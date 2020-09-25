@@ -9,9 +9,9 @@ void hello() {
     CoreEvaluator coreEvaluator;
     //coreEvaluator.CreateGraph();
     //coreEvaluator.RenderUniverse();
-    ResultTree resultTree = coreEvaluator.returnResultTree("#(x|y)");
-    //coreEvaluator.RenderUniverse("result.png");
-    //resultTree.Visualise("w3");
+    ResultTree resultTree = coreEvaluator.returnResultTree("((x>*y)>*z)>*u");
+    coreEvaluator.RenderUniverse("result.png");
+    //resultTree.Visualise("w1");
 }
 
 std::string get_message() {

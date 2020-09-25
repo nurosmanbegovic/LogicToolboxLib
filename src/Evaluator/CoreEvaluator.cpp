@@ -179,6 +179,11 @@ CoreEvaluator::CoreEvaluator(const char* PATH /* "UniverseConfig.json" */){
     universe.setVariableNames(variableNames);
     universe.setLogic(modalLogic);
 }
+/*
+CoreEvaluator(Universe uni){
+    universe = uni;
+    universe.setLogic("modalLogic");
+}*/
 
 void CoreEvaluator::ToString() {
 

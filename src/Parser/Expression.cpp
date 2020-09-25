@@ -23,6 +23,7 @@ void Expression::transformToPolishNotation() {
             case TokenType::LITERAL : output.push(*i);
                 break;
             case TokenType::BINARY_OP:
+            case TokenType::BINARY_OP_TEMP:
             case TokenType::UNARY_OP:
             case TokenType::OPEN_PARENT:
                 token_stack.push(*i);
