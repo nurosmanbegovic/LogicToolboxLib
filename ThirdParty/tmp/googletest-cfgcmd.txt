@@ -1,0 +1,1 @@
+cmd='C:/Program Files/CMake/bin/cmake.exe;-DCMAKE_BUILD_TYPE=Debug;-Dgtest_force_shared_crt=ON;-GMinGW Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

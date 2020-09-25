@@ -1,0 +1,117 @@
+[
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/testCoverage",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/LogicToolbox-lib_test.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\LogicToolbox-lib_test.dir\\test_hello.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\testCoverage\\test_hello.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/testCoverage/test_hello.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/testCoverage",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/LogicToolbox-lib_test.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\LogicToolbox-lib_test.dir\\__\\src\\Core\\Operators.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\src\\Core\\Operators.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Core/Operators.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -Dlogictoolbox_EXPORTS @CMakeFiles/logictoolbox.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\logictoolbox.dir\\Core\\Operators.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\src\\Core\\Operators.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Core/Operators.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -Dlogictoolbox_EXPORTS @CMakeFiles/logictoolbox.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\logictoolbox.dir\\Evaluator\\CoreEvaluator.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\src\\Evaluator\\CoreEvaluator.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Evaluator/CoreEvaluator.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -Dlogictoolbox_EXPORTS @CMakeFiles/logictoolbox.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\logictoolbox.dir\\Evaluator\\ResultTree.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\src\\Evaluator\\ResultTree.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Evaluator/ResultTree.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -Dlogictoolbox_EXPORTS @CMakeFiles/logictoolbox.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\logictoolbox.dir\\Graph\\Graph.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\src\\Graph\\Graph.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Graph/Graph.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -Dlogictoolbox_EXPORTS @CMakeFiles/logictoolbox.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\logictoolbox.dir\\Parser\\Expression.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\src\\Parser\\Expression.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Parser/Expression.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -Dlogictoolbox_EXPORTS @CMakeFiles/logictoolbox.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\logictoolbox.dir\\Parser\\Token.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\src\\Parser\\Token.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Parser/Token.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -Dlogictoolbox_EXPORTS @CMakeFiles/logictoolbox.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\logictoolbox.dir\\Universe\\Universe.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\src\\Universe\\Universe.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Universe/Universe.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -Dlogictoolbox_EXPORTS @CMakeFiles/logictoolbox.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\logictoolbox.dir\\Universe\\Variable.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\src\\Universe\\Variable.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Universe/Variable.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src",
+  "command": "C:\\MinGW\\bin\\g++.exe -Dlogictoolbox_EXPORTS @CMakeFiles/logictoolbox.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\logictoolbox.dir\\Universe\\World.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\src\\Universe\\World.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Universe/World.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/LogicToolbox.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\LogicToolbox.dir\\main.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\test\\main.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/test/main.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/LogicToolbox.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\LogicToolbox.dir\\hello.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\test\\hello.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/test/hello.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/LogicToolbox.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\LogicToolbox.dir\\__\\src\\Parser\\Token.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\src\\Parser\\Token.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Parser/Token.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/LogicToolbox.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\LogicToolbox.dir\\__\\src\\Parser\\Expression.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\src\\Parser\\Expression.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Parser/Expression.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/LogicToolbox.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\LogicToolbox.dir\\__\\src\\Evaluator\\CoreEvaluator.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\src\\Evaluator\\CoreEvaluator.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Evaluator/CoreEvaluator.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/LogicToolbox.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\LogicToolbox.dir\\__\\src\\Evaluator\\ResultTree.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\src\\Evaluator\\ResultTree.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Evaluator/ResultTree.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/LogicToolbox.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\LogicToolbox.dir\\__\\src\\Universe\\Universe.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\src\\Universe\\Universe.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Universe/Universe.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/LogicToolbox.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\LogicToolbox.dir\\__\\src\\Universe\\Variable.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\src\\Universe\\Variable.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Universe/Variable.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/LogicToolbox.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\LogicToolbox.dir\\__\\src\\Universe\\World.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\src\\Universe\\World.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Universe/World.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/LogicToolbox.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\LogicToolbox.dir\\__\\src\\Core\\Operators.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\src\\Core\\Operators.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Core/Operators.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/test",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/LogicToolbox.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\LogicToolbox.dir\\__\\src\\Graph\\Graph.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\src\\Graph\\Graph.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Graph/Graph.cpp"
+},
+{
+  "directory": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/test",
+  "command": "C:\\MinGW\\bin\\g++.exe -DLogicToolbox_lib_EXPORTS @CMakeFiles/LogicToolbox-lib.dir/includes_CXX.rsp  -std=c++0x -Wall -O0 -ggdb -o CMakeFiles\\LogicToolbox-lib.dir\\hello.cpp.obj -c C:\\Users\\Nur\\Desktop\\ZAVRSNI\\LogicToolboxLib\\test\\hello.cpp",
+  "file": "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/test/hello.cpp"
+}
+]

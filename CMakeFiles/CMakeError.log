@@ -1,0 +1,15 @@
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_CXX11 failed with the following output:
+Change Dir: C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_af167/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_af167.dir\build.make CMakeFiles/cmTC_af167.dir/build
+mingw32-make.exe[1]: Entering directory `C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_af167.dir/src.cxx.obj
+C:\MinGW\bin\g++.exe   -DCOMPILER_SUPPORTS_CXX11   -std=c++11 -o CMakeFiles\cmTC_af167.dir\src.cxx.obj -c C:\Users\Nur\Desktop\ZAVRSNI\LogicToolboxLib\CMakeFiles\CMakeTmp\src.cxx
+cc1plus.exe: error: unrecognized command line option "-std=c++11"
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_af167.dir/src.cxx.obj] Error 1
+mingw32-make.exe[1]: Leaving directory `C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [cmTC_af167/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }

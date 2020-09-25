@@ -4,17 +4,22 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/infloop/Documents/LogicToolbox/src/Core/Operators.cpp" "/home/infloop/Documents/LogicToolbox/src/CMakeFiles/logictoolbox.dir/Core/Operators.cpp.o"
-  "/home/infloop/Documents/LogicToolbox/src/Evaluator/CoreEvaluator.cpp" "/home/infloop/Documents/LogicToolbox/src/CMakeFiles/logictoolbox.dir/Evaluator/CoreEvaluator.cpp.o"
-  "/home/infloop/Documents/LogicToolbox/src/Evaluator/ResultTree.cpp" "/home/infloop/Documents/LogicToolbox/src/CMakeFiles/logictoolbox.dir/Evaluator/ResultTree.cpp.o"
-  "/home/infloop/Documents/LogicToolbox/src/Graph/Graph.cpp" "/home/infloop/Documents/LogicToolbox/src/CMakeFiles/logictoolbox.dir/Graph/Graph.cpp.o"
-  "/home/infloop/Documents/LogicToolbox/src/Parser/Expression.cpp" "/home/infloop/Documents/LogicToolbox/src/CMakeFiles/logictoolbox.dir/Parser/Expression.cpp.o"
-  "/home/infloop/Documents/LogicToolbox/src/Parser/Token.cpp" "/home/infloop/Documents/LogicToolbox/src/CMakeFiles/logictoolbox.dir/Parser/Token.cpp.o"
-  "/home/infloop/Documents/LogicToolbox/src/Universe/Universe.cpp" "/home/infloop/Documents/LogicToolbox/src/CMakeFiles/logictoolbox.dir/Universe/Universe.cpp.o"
-  "/home/infloop/Documents/LogicToolbox/src/Universe/Variable.cpp" "/home/infloop/Documents/LogicToolbox/src/CMakeFiles/logictoolbox.dir/Universe/Variable.cpp.o"
-  "/home/infloop/Documents/LogicToolbox/src/Universe/World.cpp" "/home/infloop/Documents/LogicToolbox/src/CMakeFiles/logictoolbox.dir/Universe/World.cpp.o"
+  "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Core/Operators.cpp" "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/CMakeFiles/logictoolbox.dir/Core/Operators.cpp.obj"
+  "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Evaluator/CoreEvaluator.cpp" "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/CMakeFiles/logictoolbox.dir/Evaluator/CoreEvaluator.cpp.obj"
+  "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Evaluator/ResultTree.cpp" "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/CMakeFiles/logictoolbox.dir/Evaluator/ResultTree.cpp.obj"
+  "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Graph/Graph.cpp" "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/CMakeFiles/logictoolbox.dir/Graph/Graph.cpp.obj"
+  "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Parser/Expression.cpp" "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/CMakeFiles/logictoolbox.dir/Parser/Expression.cpp.obj"
+  "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Parser/Token.cpp" "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/CMakeFiles/logictoolbox.dir/Parser/Token.cpp.obj"
+  "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Universe/Universe.cpp" "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/CMakeFiles/logictoolbox.dir/Universe/Universe.cpp.obj"
+  "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Universe/Variable.cpp" "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/CMakeFiles/logictoolbox.dir/Universe/Variable.cpp.obj"
+  "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/Universe/World.cpp" "C:/Users/Nur/Desktop/ZAVRSNI/LogicToolboxLib/src/CMakeFiles/logictoolbox.dir/Universe/World.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "logictoolbox_EXPORTS"
+  )
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

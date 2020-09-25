@@ -1,15 +1,17 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/logictoolbox.dir/Parser/Expression.cpp.o"
-  "CMakeFiles/logictoolbox.dir/Parser/Token.cpp.o"
-  "CMakeFiles/logictoolbox.dir/Core/Operators.cpp.o"
-  "CMakeFiles/logictoolbox.dir/Universe/Universe.cpp.o"
-  "CMakeFiles/logictoolbox.dir/Universe/World.cpp.o"
-  "CMakeFiles/logictoolbox.dir/Universe/Variable.cpp.o"
-  "CMakeFiles/logictoolbox.dir/Graph/Graph.cpp.o"
-  "CMakeFiles/logictoolbox.dir/Evaluator/ResultTree.cpp.o"
-  "CMakeFiles/logictoolbox.dir/Evaluator/CoreEvaluator.cpp.o"
-  "../lib/liblogictoolbox.pdb"
-  "../lib/liblogictoolbox.so"
+  "../bin/liblogictoolbox.dll"
+  "../bin/liblogictoolbox.dll.manifest"
+  "../bin/liblogictoolbox.pdb"
+  "../lib/liblogictoolbox.dll.a"
+  "CMakeFiles/logictoolbox.dir/Core/Operators.cpp.obj"
+  "CMakeFiles/logictoolbox.dir/Evaluator/CoreEvaluator.cpp.obj"
+  "CMakeFiles/logictoolbox.dir/Evaluator/ResultTree.cpp.obj"
+  "CMakeFiles/logictoolbox.dir/Graph/Graph.cpp.obj"
+  "CMakeFiles/logictoolbox.dir/Parser/Expression.cpp.obj"
+  "CMakeFiles/logictoolbox.dir/Parser/Token.cpp.obj"
+  "CMakeFiles/logictoolbox.dir/Universe/Universe.cpp.obj"
+  "CMakeFiles/logictoolbox.dir/Universe/Variable.cpp.obj"
+  "CMakeFiles/logictoolbox.dir/Universe/World.cpp.obj"
 )
 
 # Per-language clean rules from dependency scanning.
